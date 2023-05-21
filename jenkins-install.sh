@@ -81,5 +81,7 @@ update-alternatives --config java
 echo
 echo
 echo "Installed All Dependencies for Jenkins(Java-v.11, Git, Maven) with Jenkins"
+echo
+echo
 
 
